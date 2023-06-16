@@ -14,7 +14,7 @@ A YouTube clone project built with ReactJS, showcasing video playback, search, a
 
 1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
 2. Install dependencies: `npm install`
-3. Start the development server: `npm start`
+3. Start the development server: `npm run dev`
 
 ## Usage
 
